@@ -118,6 +118,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [WebAuthn Playground](https://opotonniee.github.io/webauthn-playground/) - A web page (no server) to test WebAuthn operations with configurable parameters, and view/parse responses.
 ## Specifications
 - [FIDO latest specifications](https://fidoalliance.org/specifications/download/) - A right place to find most recent & original FIDO specifications.
+- [CTAP 2.1 specs](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)
+- [WebAuthN draft](https://fidoalliance.org/specifications/download)
 - [CBOR specifications](https://cbor.io/spec.html) - A CBOR specification page with most recent updates and libraries for using CBOR in various programming languages.
 ## Tutorials
 - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285) - In depth article grinding through WebAuthn API, and how to use it.
